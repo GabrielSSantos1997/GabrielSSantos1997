@@ -93,7 +93,6 @@ Em todo projeto, segurança e proteção de dados entram no planejamento, não n
 ## Estatísticas
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSSantos1997&layout=compact&hide_border=true&bg_color=071820&title_color=3EE0D0&text_color=E6F1F2&langs_count=6&locale=pt-br" alt="Linguagens mais usadas" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielSSantos1997&hide_border=true&background=071820&ring=3EE0D0&fire=3EE0D0&currStreakNum=E6F1F2&sideNums=E6F1F2&currStreakLabel=3EE0D0&sideLabels=E6F1F2&dates=E6F1F2&locale=pt_BR" alt="Sequência de contribuições" />
 </div>
 
