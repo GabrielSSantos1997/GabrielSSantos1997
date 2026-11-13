@@ -1,15 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:071820,100:0D3B44&text=Gabriel%20Santos&fontColor=E6F1F2&fontSize=48&fontAlignY=38&desc=Desenvolvedor%20Full%20Stack&descAlignY=58&descSize=20&animation=fadeIn" width="100%" alt="Gabriel Santos · Desenvolvedor Full Stack" />
+<a href="https://gabrielssantos1997.github.io"><img src="./banner.svg" width="100%" alt="Gabriel Santos, desenvolvedor full stack. Clique para ver o portfólio" /></a>
 
 <a href="https://gabrielssantos1997.github.io"><img src="https://img.shields.io/badge/Ver%20meu%20portf%C3%B3lio-0D3B44?style=for-the-badge&logo=googlechrome&logoColor=3EE0D0" height="40" alt="Ver meu portfólio" /></a>
-
-<br><br>
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3500&pause=900&color=3EE0D0&center=true&vCenter=true&width=640&lines=Sistemas+web+feitos+para+o+jeito+que+o+seu+neg%C3%B3cio+funciona;PHP+%C2%B7+MySQL+%C2%B7+JavaScript;React+%C2%B7+Python+%C2%B7+Django;Seguran%C3%A7a+e+LGPD+desde+o+primeiro+dia" alt="Frase animada" /></a>
-
-**Sistemas web sob medida para pequenos e grandes negócios**
-<sub>Porto Alegre, RS</sub>
 
 </div>
 
